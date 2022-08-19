@@ -1,2 +1,3 @@
 # Chess-Project
-Chess Mullti Player Project
+Chess Mullti Player GUI Based Project.
+
